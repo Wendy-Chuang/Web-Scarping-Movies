@@ -18,6 +18,7 @@ genre1 = []
 genre2 = []
 genre3 = []
 genre4 = []
+
 page = list(range(0,900,200))
 #Loop through 5 pages
 for p in page:
